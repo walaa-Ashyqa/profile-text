@@ -1,0 +1,50 @@
+
+/* General tag*/
+body{
+    background-color: #ffffff;
+    width:100%;
+=
+}
+div{
+    border: 1px solid #ffffff;
+    border-radius:20px;
+    background-color: #fbfbfb;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+padding:20px;
+   margin: 5px;
+}
+ input{
+    height: 30px;
+    border-radius:20px;
+    border: 1px solid #eeeeee;
+    background-color:  rgb(235, 235, 235);
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+}
+
+button{
+    color: #e6e6e6;
+    border: 1px solid #eeeeee;
+    border-radius: 25px;
+    background-color: #ff725e;
+    width: 200px;
+    height: 35px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+textarea {
+    border: 2px solid #eeeeee;
+    background-color: rgb(235, 235, 235);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
